@@ -7,14 +7,13 @@ namespace CSLT.SS2
 {
    class exercise_1_15
    {
-     enum CurrencyType
-                    {
-                        USD = 1, EUR, JPY, GBP
-                    }
-        static void Main(string[] args)
+    enum CurrencyType
+    {
+        USD = 1, EUR, JPY, GBP
+    }
+        static void Main2 (string[] args)
         {
-            Console.InputEncoding = Encoding.UTF8;
-            Console.OutputEncoding = Encoding.UTF8;
+
 
             {
              //exercise1();

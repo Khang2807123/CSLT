@@ -202,7 +202,7 @@ namespace bai_1_20
             string[] tung_tu = sentence.Split(' ');
             return tung_tu.Length;
         }
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             Console.WriteLine(XoaTrungLap("Programming"));
             InFibonacci(1);

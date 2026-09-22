@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Globalization;
 
-class Exercise_4
+class Exercise_4_bai1_8
 {
-    static void Main(string[]args)
+    static void Main4(string[]args)
     {
         {
              //b1();

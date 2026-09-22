@@ -3,7 +3,7 @@ using System.Collections;
 using System.Globalization;
 class RNG
 {
-    static void Main()
+    static void Main4_2()
     {
         Random rnd = new Random();
         int ran_num = rnd.Next(11);

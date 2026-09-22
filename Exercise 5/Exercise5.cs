@@ -47,7 +47,7 @@ namespace CSLT
                 
             }
         }
-        static void Main(string [] args)
+        static void Main5_1 (string [] args)
         {
             PrimeNumsLessThanANum(79);
         }

@@ -5,7 +5,7 @@ using System.Globalization;
 
 class Exercise_4
 {
-    static void Main()
+    static void Mainbcc(string[]args)
     {
         for (int i = 1; i <= 10; i++)
         {

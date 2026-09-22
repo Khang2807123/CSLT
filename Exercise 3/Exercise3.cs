@@ -2,10 +2,10 @@ using System;
 using System.Linq;
 class exercise_3
 {
-    static void Main(string[] args)
+    static void Main3 (string[] args)
     {
         {
-         //ptb2();
+         ptb2();
          //bai1();
          //bai2();
          //bai3();
